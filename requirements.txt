@@ -3,4 +3,7 @@ pandas
 yfinance
 TA-Lib
 streamlit
+ensure==1.0.2
+PyYAML
+python-box==6.0.2
 -e.
