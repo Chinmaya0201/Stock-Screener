@@ -1,4 +1,5 @@
 import os
 from pathlib import Path 
 
-STOCK_LIST_PATH = os.path.join('config','config.yaml')
+LOCAL_FILE_PATH = Path(os.path.join('config','config.yaml'))
+PAGE_CONFIG_PATH = Path(os.path.join('config','page_config.yaml'))
